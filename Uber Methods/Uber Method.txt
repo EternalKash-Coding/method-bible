@@ -1,0 +1,17 @@
+Free Uber Rides 🚘👨🏽‍💻:
+@jankyydave @kashdami_
+-
+100% free, you just need to have an android. If not yours borrow a friends.
+
+	1.	Download and Install the Xposed Framework. http://dl- xda.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk
+	2.	Go to play store and Install Cardgen. https://play.google.com/store/apps/details?id=com.mrma.cardgen&hl=en
+	3.	Go to play store and download the IMEI changer. Go to xposed and check the module and restart. (I’m using wsm tools since I’m on miui – it’s the same thing, stock android prefer xposed) https://play.google.com/store/apps/details?id=com.vivek.imeichanger&hl=en
+	4.	After downloading all three, install each and restart phone. Open the IMEI changer, this will allows modification of the exposed IMEI number at will allowing one to change it to a random number ,If a valid IMEI is needed, one can go online and find an IMEI generator. Now, all that remains is clearing the Uber app's data cache and registering a new account
+
+	5.	At adding payment methods, choose the credit/debit card option. Open CardGen and generate a new card number. Enter any valid year, month and cvv codes. Uber does not check the validity of this either.
+
+	6.	Find a Promo Code online just go to Google and put in "Free Ride Uber Code", it varies by country and claim it in the app, and one will have a free ride every time.
+	7.	But since you purchased this from the only KASHDAMI/JANKYYDAVE im rey js hitchu with the code:
+promo code: uberbkknow
+ 
+Thank you for purchasing the uber ride method 🖤, please purchase more !
